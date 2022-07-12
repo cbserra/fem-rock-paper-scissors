@@ -1,18 +1,15 @@
 {
-  "name": "vite-react-ts",
+  "name": "fem-rock-paper-scissors",
   "version": "0.0.0",
-  "description": "React Typescript Starter Template with Vite",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/uchihamalolan/vite-react-ts.git"
-  },
+  "description": "Rock Paper Scissors Game",
+  "repository": "git+https://github.com/cbserra/fem-rock-paper-scissors.git",
   "keywords": [
     "vite",
     "react",
     "starter",
     "template"
   ],
-  "author": "Malolan B. <uchihamalolan@gmail.com> (https://twitter.com/malolan12)",
+  "author": "Chris S. <789723+cbserra@users.noreply.github.com>",
   "license": "MIT",
   "homepage": "https://github.com/uchihamalolan/vite-react-ts",
   "scripts": {
@@ -70,5 +67,6 @@
     "typescript": "^4.7.4",
     "vite": "^2.9.14",
     "vite-tsconfig-paths": "^3.5.0"
-  }
+  },
+  "main": "index.js"
 }
